@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-display: baloo;
+}
+.banner-text{
+    width: 100%;
+    position: absolute;
+}
+.banner-text ul{
+    height: 50%;
+    float: right;
+}
